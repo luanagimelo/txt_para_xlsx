@@ -1,0 +1,6 @@
+<criterio>
+	<variaveisTratNulo>
+		<variavelTratNulo driver="Serasa B49C" produto="Consulta Varejo - PF" nome="Erro na consulta" nulo="falso" tipo="Logico" />
+		<variavelTratNulo driver="Serasa B49C" produto="Consulta Varejo - PF" nome="Erro na serie" nulo="falso" tipo="Logico" />
+	</variaveisTratNulo>
+</criterio>
